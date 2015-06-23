@@ -11,5 +11,6 @@ Sub addEmptyPlaceholder()
     Options.DefaultHighlightColorIndex = wdYellow
     Selection.Range.HighlightColorIndex = wdYellow
     Selection.MoveRight Unit:=wdCharacter, Count:=1
+    Selection.Range.HighlightColorIndex = wdNoHighlight
 
 End Sub
