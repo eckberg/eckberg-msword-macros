@@ -12,3 +12,9 @@ The addEmptyPlaceholder macro inserts a placeholder highlighted in yellow as fol
 The viewPresetFullWidth maximizes the width and keeps the styles menu to the left and outline to the right.
 
 The viewPresetFloatWidth sets it to be a floating window with no sidebars.
+
+## USY!
+(Only in Swedish)
+Kollar efter vanliga skrivfel och "stilfel". Stödjer för närvarande:
+* "Ska" bör användas istället för "skall"
+* Organisationsnummer bör förkortas "org.nr" istället för "org.nr."
