@@ -1,4 +1,4 @@
-# WeComply MS Word
+# MS Word Legal Macros
 MS Word macros for contract drafting
 
 ## Installation/usage
@@ -6,4 +6,9 @@ MS Word macros for contract drafting
 2. Run the imported macro or add a button to the macro on your quick access bar for easy access
 
 ## Placeholder
-The WeComplyMsWordPlaceholder macro inserts a placeholder highlighted in yellow as follows: [•]
+The addEmptyPlaceholder macro inserts a placeholder highlighted in yellow as follows: [•]
+
+## View Presets
+The viewPresetFullWidth maximizes the width and keeps the styles menu to the left and outline to the right.
+
+The viewPresetFloatWidth sets it to be a floating window with no sidebars.
